@@ -10,6 +10,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { FormsModule } from '@angular/forms';
 import { DayoneComponent } from './page/task/dayone/dayone.component';
 import { HomePageComponent } from './page/home-page/home-page.component';
+import { DaytwoComponent } from './page/task/daytwo/daytwo.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { HomePageComponent } from './page/home-page/home-page.component';
     FooterComponent,
     NavbarComponent,
     DayoneComponent,
-    HomePageComponent
+    HomePageComponent,
+    DaytwoComponent
   ],
   imports: [
     BrowserModule,
