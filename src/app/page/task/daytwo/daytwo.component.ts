@@ -10,6 +10,8 @@ export class DaytwoComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
   }
+
 
 }
